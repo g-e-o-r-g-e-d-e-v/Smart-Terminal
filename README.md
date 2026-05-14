@@ -4,6 +4,8 @@ Smart Terminal is a real-time market infrastructure system designed to process s
 
 It combines data engineering, time-series computation, and browser-based visualization into a single continuous system.
 
+![Smart Terminal](./SmartTerminal.png)
+
 ---
 
 # 1. OVERVIEW
